@@ -8,8 +8,9 @@ Sou estudante de Bacharelado em Ciência da Computação na Estácio - Campus Pa
 
 Sou apaixonado por aprender e sempre estou em busca de soluções inovadoras e eficientes..
 
-<p align="left"><a href="https://github.com/HermesonAlessandro"><img alt="GitHub" title="Acesse meu perfil no GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/hermeson-alessandro/"><img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/_hermesonalessandro_/"><img alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://wa.me/5585989340868"><img alt="WhatsApp" title="Fale comigo no WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
+<p align="left"><a href="https://github.com/HermesonAlessandro"><img alt="GitHub" title="Acesse meu perfil no GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/hermeson-alessandro/"><img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="hermesonalessandro332@gmail.com"><img alt="E-mail" title="Envie-me um e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</a> <a href="https://www.instagram.com/_hermesonalessandro_/"><img alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://wa.me/5585989340868"><img alt="WhatsApp" title="Fale comigo no WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
 
 ### 🤖 Linguagens e Tecnologias
 
