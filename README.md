@@ -3,9 +3,7 @@
 <img src="https://img.shields.io/badge/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20T%C3%A9cnico%20de%20Inform%C3%A1tica-0f172a?style=flat-square&logoColor=white" alt="Ciência da Computação | Técnico de Informática">
 
 Hermeson Alessandro Melo de Sousa
-
 Sou estudante de Bacharelado em Ciência da Computação na Estácio - Campus Parangaba. Tenho formação técnica em Informática pela Escola Estadual de Educação Profissional Raimundo Célio Rodrigues, com sólida experiência em desenvolvimento de software, hardware e suporte técnico. Anteriormente, atuei como monitor e técnico de suporte no Instituto Mix de Profissões, além de ministrar aulas de informática. Atualmente, trabalho como técnico de suporte na Vicunha | Jeansidentity.
-
 Sou apaixonado por aprender e sempre estou em busca de soluções inovadoras e eficientes..
 
 <p align="left">
