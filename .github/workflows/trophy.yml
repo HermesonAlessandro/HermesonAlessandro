@@ -23,7 +23,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
-          token: ${{ secrets.GT_PAT }}
+          token: ${{ secrets.GH_PAT }}
           theme: dark_lover
           max-rows: 1
           margin-width: 8
@@ -37,4 +37,4 @@ jobs:
           target_branch: trophy-output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GT_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
